@@ -15,3 +15,5 @@ Let me know if you need anything else from me.
 Thanks again,
 Xavier Savier
 CEO, Terminal Games Marketplace, Inc.
+
+PS.  The best way to get your completed game to me is create a file in this directory in your clone of your fork of this repository, and to push it back to your fork when you are done.
