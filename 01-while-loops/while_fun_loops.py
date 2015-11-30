@@ -10,3 +10,9 @@
 #	else:
 #		print i,
 #	i += 1
+
+#i = 0
+#while i < 110:
+#	print i,
+#	i += 10
+
