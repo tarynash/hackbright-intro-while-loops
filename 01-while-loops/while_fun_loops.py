@@ -37,3 +37,11 @@
 #	else:
 #		print i
 #		i -= 1
+
+#fruits = ["apples", "oranges", "bananas"]
+#i = 0
+#while i < len(fruits):
+#	print fruits[i],
+#	i += 1
+
+
