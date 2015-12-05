@@ -44,4 +44,26 @@
 #	print fruits[i],
 #	i += 1
 
+#def sum_nums(num):
+#	sum = 0
+#	i = 0
+#	while i < num:
+#		sum = i + sum
+#		i += 1
+#	print sum
+#sum_nums(-3)
+
+def sum_nums2(num):
+	sum = 0
+	i = 0
+	if (num<0):
+		while(i>num):
+			sum += i
+			i -= 1
+	else:
+		while(i<=num):
+			sum += i
+			i += 1
+	return sum
+print sum_nums2(-3)
 
